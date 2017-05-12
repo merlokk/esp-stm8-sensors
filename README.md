@@ -1,5 +1,7 @@
 # README #
 
+original repository [here](https://bitbucket.org/hrandib/esp-stm8-sensors)
+
 Modbus slave implementation for the ESP14 BH1750 HDC1080 BMP280 sensors module.
 This software only for STM8 part of this module. Compiled with IAR EWSTM8 and QtCreator as an editor.
 
